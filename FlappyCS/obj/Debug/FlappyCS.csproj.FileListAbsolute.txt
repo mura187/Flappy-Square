@@ -1,0 +1,16 @@
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS-master\FlappyCS\bin\Debug\FlappyCS.exe
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS-master\FlappyCS\bin\Debug\FlappyCS.pdb
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS-master\FlappyCS\obj\Debug\FlappyCS.csprojResolveAssemblyReference.cache
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS-master\FlappyCS\obj\Debug\FlappyCS.Form1.resources
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS-master\FlappyCS\obj\Debug\FlappyCS.Properties.Resources.resources
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS-master\FlappyCS\obj\Debug\FlappyCS.csproj.GenerateResource.Cache
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS-master\FlappyCS\obj\Debug\FlappyCS.exe
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS-master\FlappyCS\obj\Debug\FlappyCS.pdb
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS\FlappyCS\bin\Debug\FlappyCS.exe
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS\FlappyCS\bin\Debug\FlappyCS.pdb
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS\FlappyCS\obj\Debug\FlappyCS.csprojResolveAssemblyReference.cache
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS\FlappyCS\obj\Debug\FlappyCS.Form1.resources
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS\FlappyCS\obj\Debug\FlappyCS.Properties.Resources.resources
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS\FlappyCS\obj\Debug\FlappyCS.csproj.GenerateResource.Cache
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS\FlappyCS\obj\Debug\FlappyCS.exe
+C:\Users\Мурат\Documents\Visual Studio 2017\Projects\FlappyCS\FlappyCS\obj\Debug\FlappyCS.pdb
